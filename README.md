@@ -3,9 +3,9 @@
 <h3 align="center">Students at IIIT Bhopal (2020-24) who are here to Collaborate and Innovate Together</h3>
 
 
-- 🔭 We currently working on **our own Website**
+- 🔭 We are currently working on **our own Website**
 
-- 🌱 We are currently learning **everything we can get our hand on**
+- 🌱 We are currently learning **everything we can get our hands on**
 
 - 💬 Ask us about **anything**
 
