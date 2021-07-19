@@ -1,4 +1,4 @@
-# What 
+# What is Neos
 
 * Neos is supposed to be a Student Group to showcase our big and small project and other shit
 * _Are we going to big projects_ ?
