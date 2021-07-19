@@ -20,10 +20,10 @@
   * more tbd
 
 ####  Back end 
-* DB and oaut systems
-* Cms
+* DB and oauth systems
+* CMS / CRM
 * Discord Bots
-* more tbd
+* _more tbd_
 
 ## App dev
 * Basic chat app
@@ -31,7 +31,7 @@
     * With sync backend
 * React Native app for a simple website
 * PWA ( _progressive web app_ )
-* more tbd
+* _more tbd_
 
 ## Linux / Sysadmin / Devops /Docker
 
@@ -43,7 +43,7 @@
 ## Youtube
 * Weeky recorded discussions on new tech and pre decided topics
 * Discussion with guests
-* more tbd
+* _more tbd_
 
 # Repositories
 
