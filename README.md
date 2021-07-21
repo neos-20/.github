@@ -8,10 +8,12 @@
 ## Webdev 
 
 #### Front end
+
 * static Sites with (not listed here) 
   * tailwind
   * haml
   * scss
+  
 * Dynamic Sites with (not listed here)
   * React js 
   * Vue js
