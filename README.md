@@ -1,6 +1,6 @@
 # What is Neos
 
-* Neos is supposed to be a Student Group to showcase our big and small project and other shit
+* Neos is supposed to be a Student Group to showcase our big and small projects and other shit
 * _Are we going to big projects_ ?
 	* **yes**
 
@@ -48,7 +48,8 @@
 # Repositories
 
 ### [cp-snippets](https://github.com/neos-20/cp-snippets)
-    - Simple repo with vscode json type snippets and vairents of it in cpp and python ... later rust
+    - vscode json type snippets in c++ and python (later rust)
+    - to implement commonly used functions into a larger section of code.
 
 ### [learn-simpleCRM](https://github.com/neos-20/learn-simpleCRM)
     - Simple implementation of a php cms to make a crm , then converted bit by bit into node js
@@ -61,7 +62,7 @@
 
 ### [profile-forms-bot](https://github.com/neos-20/profile-forms-bot)
     - name tdb , can be called `Hi , I am`
-    - bot with  recieves user profile data and drop generate embeded in a pre decided channel
+    - bot which receives user profile data and generates embed in a pre decided channel
     
 ### [profile-forms-webview](https://github.com/neos-20/profile-forms-webview)
     - webview for **profile-forms-bot** to generate json
