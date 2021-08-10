@@ -52,13 +52,13 @@
     - to implement commonly used functions into a larger section of code.
 
 ### [learn-simpleCRM](https://github.com/neos-20/learn-simpleCRM)
-    - Simple implementation of a php cms to make a crm , then converted bit by bit into node js
+    - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
 
 ### [learn-basic-chat-app](https://github.com/neos-20/learn-basic-chat-app)
     - simple chat app to excercise flutter and firebase skills
 
 ### [Too-Many-Ways-Ideas](https://github.com/neos-20/Too-Many-Ways-Ideas)
-    - iska name badlo koi
+    - Transcript of Yt videos and/or future podcasts
 
 ### [profile-forms-bot](https://github.com/neos-20/profile-forms-bot)
     - name tdb , can be called `Hi , I am`
