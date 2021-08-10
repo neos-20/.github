@@ -38,7 +38,7 @@
 * Shell scripts repo
 * Containerize discord bots
 * CICD sample projects
-* WHat is Linux Ricing with related content
+* What is Linux Ricing with related content
 
 ## Youtube
 * Weeky recorded discussions on new tech and pre decided topics
