@@ -9,7 +9,7 @@
 
 #### Front end
 
-* static Sites with (not listed here) 
+* Static Sites with (not listed here) 
   * tailwind
   * haml
   * scss
@@ -17,7 +17,7 @@
 * Dynamic Sites with (not listed here)
   * React js 
   * Vue js
-  * more tbd
+  * _more tbd_
 
 ####  Back end 
 * DB and oauth systems
@@ -47,14 +47,14 @@
 
 # Repositories
 
-### [cp-snippets](https://github.com/neos-20/cp-snippets)
+### [code-snippets/DSA](https://github.com/neos-20/cp-snippets)
     - vscode json type snippets in c++ and python (later rust)
     - to implement commonly used functions into a larger section of code.
 
-### [learn-simpleCRM](https://github.com/neos-20/learn-simpleCRM)
+### [BlogWebsite](https://github.com/neos-20/learn-simpleCRM)
     - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
 
-### [BlogWebsite](https://github.com/neos-20/BlogWebsite)
+### [Chat-App](https://github.com/neos-20/BlogWebsite)
     - simple chat app to excercise flutter and firebase skills
 
 ### [Too-Many-Ways-Ideas](https://github.com/neos-20/Too-Many-Ways-Ideas)
