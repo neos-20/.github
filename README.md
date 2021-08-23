@@ -51,10 +51,10 @@
     - vscode json type snippets in c++ and python (later rust)
     - to implement commonly used functions into a larger section of code.
 
-### [BlogWebsite](https://github.com/neos-20/learn-simpleCRM)
+### [BlogWebsite](https://github.com/neos-20/BlogWebsite)
     - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
 
-### [Chat-App](https://github.com/neos-20/BlogWebsite)
+### [learn-basic-chat-app](https://github.com/neos-20/learn-basic-chat-app)
     - simple chat app to excercise flutter and firebase skills
 
 ### [Too-Many-Ways-Ideas](https://github.com/neos-20/Too-Many-Ways-Ideas)
