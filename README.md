@@ -74,3 +74,8 @@
   
 
 
+<a href="https://github.com/neos-20/neos-20/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neos-20/neos-20" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
