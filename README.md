@@ -47,6 +47,10 @@
 
 # Repositories
 
+
+### [node-blog](https://github.com/neos-20/node-blog)
+	- backend for blog and cms using nodejs and expressjs
+
 ### [code-snippets/DSA](https://github.com/neos-20/cp-snippets)
     - vscode json type snippets in c++ and python (later rust)
     - to implement commonly used functions into a larger section of code.
@@ -54,6 +58,9 @@
 ### [BlogWebsite](https://github.com/neos-20/BlogWebsite)
     - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
 
+### [learn-django-server](https://github.com/neos-20/learn-django-server)
+	-learn basic implementation of django server 
+	
 ### [learn-basic-chat-app](https://github.com/neos-20/learn-basic-chat-app)
     - simple chat app to excercise flutter and firebase skills
 
@@ -70,9 +77,6 @@
 ### [neos-20.github.io](https://github.com/neos-20/neos-20.github.io)
     - website to showcase the projects and portfolios
     - and also publish blogs
-
-  
-
 
 <a href="https://github.com/neos-20/neos-20/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=neos-20/neos-20" />
