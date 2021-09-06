@@ -1,15 +1,16 @@
 
-<a href="https://github.com/neos-20/learn-github/graphs/contributors">
-  <img align="center" src="https://contrib.rocks/image?repo=neos-20/learn-github" />
-</a>
-<hr>
 
 # What is Neos
 
 * Neos is supposed to be a Student Group to showcase our big and small projects and other shit
 * _Are we going to big projects_ ?
 	* **yes**
-
+<p  align="center">
+<a href="https://github.com/neos-20/learn-github/graphs/contributors">
+  <img width="80%" src="https://contrib.rocks/image?repo=neos-20/learn-github" />
+</a>
+</p>
+<hr>
 
 ## Webdev 
 
