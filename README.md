@@ -78,8 +78,8 @@
     - website to showcase the projects and portfolios
     - and also publish blogs
 
-<a href="https://github.com/neos-20/neos-20/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=neos-20/neos-20" />
+<a href="https://github.com/neos-20/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neos-20/learn-github" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+
