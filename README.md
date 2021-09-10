@@ -62,9 +62,6 @@
     - vscode json type snippets in c++ and python (later rust)
     - to implement commonly used functions into a larger section of code.
 
-### [BlogWebsite](https://github.com/neos-20/BlogWebsite)
-    - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
-
 ### [learn-django-server](https://github.com/neos-20/learn-django-server)
 	-learn basic implementation of django server 
 	
@@ -86,4 +83,11 @@
     - and also publish blogs
 
 
+<details>
+   <summary>Archived</summary>  
+	
+### [BlogWebsite](https://github.com/neos-20/BlogWebsite)
+    - Simple implementation of a php cms to make a cms , then converted bit by bit into node js (eventually)
 
+
+</details>
